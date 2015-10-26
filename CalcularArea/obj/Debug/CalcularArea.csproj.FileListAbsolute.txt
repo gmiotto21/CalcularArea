@@ -1,0 +1,12 @@
+c:\users\gmiotto\documents\visual studio 2015\Projects\CalcularArea\CalcularArea\bin\Debug\CalcularArea.exe.config
+C:\Users\Gmiotto\Documents\Visual Studio 2015\Projects\CalcularArea\CalcularArea\bin\Debug\CalcularArea.exe
+C:\Users\Gmiotto\Documents\Visual Studio 2015\Projects\CalcularArea\CalcularArea\bin\Debug\CalcularArea.pdb
+C:\Users\Gmiotto\Documents\Visual Studio 2015\Projects\CalcularArea\CalcularArea\obj\Debug\CalcularArea.csprojResolveAssemblyReference.cache
+C:\Users\Gmiotto\Documents\Visual Studio 2015\Projects\CalcularArea\CalcularArea\obj\Debug\CalcularArea.exe
+C:\Users\Gmiotto\Documents\Visual Studio 2015\Projects\CalcularArea\CalcularArea\obj\Debug\CalcularArea.pdb
+C:\Users\Gmiotto\Source\Workspaces\DB1trainee\CalcularArea\CalcularArea\bin\Debug\CalcularArea.exe.config
+C:\Users\Gmiotto\Source\Workspaces\DB1trainee\CalcularArea\CalcularArea\obj\Debug\CalcularArea.exe
+C:\Users\Gmiotto\Source\Workspaces\DB1trainee\CalcularArea\CalcularArea\obj\Debug\CalcularArea.pdb
+C:\Users\Gmiotto\Source\Workspaces\DB1trainee\CalcularArea\CalcularArea\bin\Debug\CalcularArea.exe
+C:\Users\Gmiotto\Source\Workspaces\DB1trainee\CalcularArea\CalcularArea\bin\Debug\CalcularArea.pdb
+C:\Users\Gmiotto\Source\Workspaces\DB1trainee\CalcularArea\CalcularArea\obj\Debug\CalcularArea.csprojResolveAssemblyReference.cache
